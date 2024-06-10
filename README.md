@@ -1,0 +1,1 @@
+Developed a Blood Bank Management System (BBMS) using SQL database for robust data storage and Apache NetBeans platform for a user-friendly interface. This application streamlines blood bank operations by enabling staff to efficiently manage blood types, expiry dates, and comprehensive donor details.
